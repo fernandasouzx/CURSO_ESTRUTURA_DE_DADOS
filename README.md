@@ -1,8 +1,9 @@
 ## Estrutura de dados em Linguagem C
 
-Neste curso utiliza a linguagem C para implementar as principais estruturas de dados.
+Este repositório reúne os códigos e exercícios desenvolvidos durante o curso de Estruturas de Dados em Linguagem C.
+O objetivo do curso é apresentar os principais conceitos e implementações de forma clara e prática, utilizando a linguagem C como base.
 
-## O que foi abordado:
+## Conteúdo abordado:
 * Introdução a Linguagem C
 * Estruturas de Dados
 * Structs
@@ -20,4 +21,4 @@ Neste curso utiliza a linguagem C para implementar as principais estruturas de d
 * Leonardo Schmidt
 
 ## Aluna
-* Fernanda l. SOuza
+* Fernanda Lima de Souza
