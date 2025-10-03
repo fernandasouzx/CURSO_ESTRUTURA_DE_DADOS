@@ -1,4 +1,4 @@
-##Estrutura de dados em Linguagem C
+## Estrutura de dados em Linguagem C
 
 Esse curso oferece uma visão geral sobre a linguagem C e sobre a implementação das principais estruturas de dados existentes.
 
